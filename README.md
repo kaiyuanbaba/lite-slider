@@ -16,3 +16,4 @@
 - built with pure js, very fast 
 
 - compatible for main stream browsers 
+
